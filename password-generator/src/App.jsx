@@ -51,7 +51,7 @@ function App() {
           />
           <button
             type="button"
-            className="px-4 bg-teal-400 rounded-right-lg font-sans shadow-xl font-bold"
+            className="px-4 bg-teal-400 rounded-right-lg font-sans shadow-xl font-bold hover:bg-teal-500"
             onClick={copyPassword}
           >
             Copy
